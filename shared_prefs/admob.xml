@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
     <boolean name="use_https" value="false" />
-    <long name="first_ad_req_time_ms" value="1533629265529" />
-    <long name="app_last_background_time_ms" value="1533629465558" />
+    <long name="first_ad_req_time_ms" value="1533654875500" />
+    <long name="app_last_background_time_ms" value="1533656018139" />
     <long name="app_settings_last_update_ms" value="1533629132989" />
     <boolean name="auto_collect_location" value="true" />
-    <int name="request_in_session_count" value="3" />
+    <int name="request_in_session_count" value="1" />
     <string name="app_settings_json">{&quot;status&quot;:1,&quot;app_id&quot;:&quot;ca-app-pub-2113493460707252~3449130520&quot;,&quot;auto_collect_location&quot;:true,&quot;ad_unit_id_settings&quot;:[{&quot;ad_unit_id&quot;:&quot;ca-app-pub-2113493460707252/6662368748&quot;,&quot;format&quot;:&quot;banner&quot;},{&quot;ad_unit_id&quot;:&quot;ca-app-pub-2113493460707252/2840697323&quot;,&quot;format&quot;:&quot;banner&quot;},{&quot;ad_unit_id&quot;:&quot;ca-app-pub-2113493460707252/2900407078&quot;,&quot;format&quot;:&quot;banner&quot;},{&quot;ad_unit_id&quot;:&quot;ca-app-pub-2113493460707252/8437339720&quot;,&quot;format&quot;:&quot;interstitial&quot;,&quot;mediation_config&quot;:{&quot;ad_networks&quot;:[{&quot;adapters&quot;:[&quot;com.google.ads.mediation.admob.AdMobAdapter&quot;]},{&quot;adapters&quot;:[&quot;com.google.ads.mediation.admob.AdMobAdapter&quot;],&quot;data&quot;:{&quot;campaign_id&quot;:&quot;679877688&quot;}}]}},{&quot;ad_unit_id&quot;:&quot;ca-app-pub-2113493460707252/3579063924&quot;,&quot;format&quot;:&quot;interstitial&quot;},{&quot;ad_unit_id&quot;:&quot;ca-app-pub-2113493460707252/6013655572&quot;,&quot;format&quot;:&quot;interstitial&quot;},{&quot;ad_unit_id&quot;:&quot;ca-app-pub-2113493460707252/7792326523&quot;,&quot;format&quot;:&quot;banner&quot;},{&quot;ad_unit_id&quot;:&quot;ca-app-pub-2113493460707252/9356063327&quot;,&quot;format&quot;:&quot;banner,interstitial&quot;}],&quot;persistable_banner_ad_unit_ids&quot;:[&quot;ca-app-pub-2113493460707252/6662368748&quot;,&quot;ca-app-pub-2113493460707252/2840697323&quot;,&quot;ca-app-pub-2113493460707252/2900407078&quot;,&quot;ca-app-pub-2113493460707252/7792326523&quot;]}</string>
 </map>
