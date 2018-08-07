@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="launch_count" value="5" />
+    <boolean name="dontshow" value="true" />
+    <int name="versioncode" value="81" />
+    <long name="date_firstlaunch" value="1529175779517" />
+</map>

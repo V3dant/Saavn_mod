@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="song" value="368" />
+    <int name="album_implicit" value="297" />
+    <int name="album" value="0" />
+    <int name="show" value="0" />
+    <int name="artist" value="5" />
+    <int name="artist_implicit" value="280" />
+    <int name="playlist" value="14" />
+</map>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="visible_area_percentage">50</string>
+    <string name="wo_bot_detection_config">s:30,a:0</string>
+    <string name="adnw_purge_on_413_response">false</string>
+    <string name="adnw_enable_iab">true</string>
+    <string name="ad_viewability_tap_margin">0</string>
+    <string name="show_play_pause_rewarded_video">true</string>
+    <string name="adnw_ios_blur_images_enabled">false</string>
+    <string name="adnw_android_video_caching_enabled">true</string>
+    <string name="adnw_android_disable_blur">false</string>
+    <string name="adnw_enable_inline_x_out_non_fullscreen_on_sdk">false</string>
+    <string name="adnw_enable_inline_x_out_on_sdk">false</string>
+    <string name="adnw_android_disable_playable_precache">false</string>
+    <string name="adnw_enable_debug_overlay">false</string>
+    <string name="unified_logging_event_limit">30</string>
+    <string name="adnw_logging_endpoint_prefix">www</string>
+    <string name="adnw_client_request_id_enabled">false</string>
+    <string name="adnw_top_activity_viewability">false</string>
+    <string name="adnw_mapp_markup_impression_after_image_load">false</string>
+    <string name="additional_debug_logging_sampling_percentage">100</string>
+    <string name="show_metadata_rewarded_video">true</string>
+    <string name="adnw_android_memory_opt">false</string>
+    <string name="adnw_android_wo_bot_detection_enabled">false</string>
+    <string name="adnw_native_cookie_injection">false</string>
+    <string name="adnw_debug_logging">true</string>
+    <string name="visible_area_check_enabled">false</string>
+    <string name="unified_logging_immediate_delay_ms">2000</string>
+    <string name="adnw_block_lockscreen">false</string>
+    <string name="disable_in_app_app_store">true</string>
+    <string name="adnw_ios_watch_and_install">false</string>
+    <string name="minimum_elapsed_time_after_impression">-1</string>
+    <string name="adnw_viewability_check_area_based">false</string>
+    <string name="video_and_endcard_autorotate">autorotate_enabled</string>
+    <string name="adnw_enhanced_viewability_area_check">false</string>
+    <string name="adnw_ios_use_store_url">true</string>
+    <string name="stack_trace_sample_rate">100</string>
+    <string name="adnw_enable_rage_shake">false</string>
+    <string name="adnw_enable_exoplayer">false</string>
+    <string name="adnw_unique_db_name_per_process">true</string>
+</map>

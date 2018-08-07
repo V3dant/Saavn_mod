@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="timestamp" value="1532490140000" />
+    <long name="dex.time.2" value="1532492850000" />
+    <long name="dex.crc.2" value="4109283880" />
+    <long name="crc" value="2665422800" />
+    <int name="dex.number" value="2" />
+</map>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ŗ1" value="1" />
+    <int name="ŗ2" value="0" />
+    <string name="ŗ.PREF_UNIT_ID">b30bb2eb0437c66f1a487d0da0834163</string>
+    <int name="ŗ0" value="1" />
+    <long name="ŗ.PREF_TTL" value="604800000" />
+    <long name="ŗ.PREF_CREATE_TIME" value="1529691327" />
+</map>

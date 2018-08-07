@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="monitoring:start" value="1533614708926" />
+    <long name="last_dispatch" value="1533488708762" />
+    <long name="monitoring:count" value="36" />
+    <string name="installation_campaign">utm_source=google-play&amp;utm_medium=organic</string>
+    <long name="first_run" value="1529175756302" />
+    <string name="monitoring:value">3WC11.0.20:AnalyticsReceiver is not registered or is disabled. Register the receiver for reliable dispatching on non-Google Play devices. See http://goo.gl/8Rd3yj for instructions.</string>
+</map>
